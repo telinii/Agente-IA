@@ -1,5 +1,5 @@
 # Agente-IA
-# LINK DE DEMONSTRAÇÃO DE USO: https://www.youtube.com/watch?v=UFowiCiSscU
+
 
 # 🧠 Tradutor de Fórmulas Proposicionais para Linguagem Natural
 
@@ -178,7 +178,7 @@ P se e somente se Q
 ## 📌 4. Vídeo de Demonstração (1 ponto)
 
 📽️ **Link do vídeo:**  
-👉 _adicione aqui o link para o seu vídeo (YouTube, Drive, etc.)_
+👉 https://www.youtube.com/watch?v=UFowiCiSscU
 
 ---
 
