@@ -180,6 +180,9 @@ P se e somente se Q
 📽️ **Link do vídeo:**  
 👉 https://www.youtube.com/watch?v=UFowiCiSscU
 
+NOTA: Para testar o agente, abra o terminal e execute os seguintes comandos:
+         cd agente
+         streamlit run app.py
 ---
 
 ## ✔️ Estado Final do Projeto
